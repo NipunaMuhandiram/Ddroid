@@ -13,10 +13,10 @@ Y.M.M Nipuna Sandaruwan
 
 ## Version History
 
-* 1.1
+* 2.3
     * Various bug fixes and optimizations
 * 1.0
-    * Initial Release (Did not committed to Github )
+    * Initial Release (Did not committed to Github until stable version 2.37 )
 
 ## License
 
